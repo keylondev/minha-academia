@@ -580,7 +580,7 @@ border: solid 1px rgb(175, 173, 173);
   height: 10vh;
   font-weight: bold;
   margin-top: 20px;
-
+  color:black;
 }
 
 .botao5:hover {
@@ -976,5 +976,6 @@ cursor: pointer;
   .lista {
     display:none;
   }
+
 
 }
